@@ -32,9 +32,8 @@ This project demonstrates how to create a Retrieval-Augmented Generation (RAG) p
    pip install -r requirements.txt
    ```
 
-4. **Add your API key on `.env` file**
+4. **Add your API key on .env**
    OPENAI_API_KEY=your_openai_api_key_here
-   ```
 
 5. **Add a sample PDF**
    Place any PDF file in the root folder and name it `sample.pdf` (or change the filename in `main.py`).
@@ -66,5 +65,4 @@ langchain-pdf-rag/
 ### 👤 Author
 
 **Ahmed Fazil**  
-Backend Developer — AI / RAG / LangChain  
-[Your GitHub Profile](https://github.com/ahmedfazil3)
+Backend Developer — AI / RAG / LangChain
